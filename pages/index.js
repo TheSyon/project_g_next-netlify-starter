@@ -16,7 +16,7 @@ export default function Home() {
 
   // Group 2 - Colors
   const group2SetA = ['blauw', 'geel', 'rood', 'groen']
-  const group2SetB = ['blue', 'yellow', 'vert']
+  const group2SetB = ['blue', 'jaune', 'rouge', 'vert']
 
   const generatePhrase = () => {
     // Toggle button text between languages
